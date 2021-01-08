@@ -1,1 +1,2 @@
-# MirageFairy-Server_config
+
+MirageFairy Serverのコンフィグファイルです。
